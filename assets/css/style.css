@@ -473,7 +473,7 @@ a:hover{
  ======================================= */
 
 #experience{
-  background-image: url(../images/experience-back.png);
+  background-image: url(../images/experience-back.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -754,7 +754,7 @@ a:hover{
  ======================================= */
 
  #video{
-  background-image: url(../images/video-img.png);
+  background-image: url(../images/video-img.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
